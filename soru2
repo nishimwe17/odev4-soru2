@@ -1,0 +1,9 @@
+a) #include<stdio.h>
+
+b)int function(argt)
+{
+    return argt -1;
+}
+
+c) #define MESAJ "kopya cekmek hirsizliktir"
+  puts(MESAJ)
